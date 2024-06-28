@@ -128,12 +128,10 @@
     </style>
 </head>
 <body>
-
 <header>
     <h1>Biología Marina</h1>
     <p>Explora el fascinante mundo de los océanos y sus habitantes</p>
 </header>
-
 <nav>
     <a href="#introduccion">Introducción</a>
     <a href="#ecosistemas">Ecosistemas Marinos</a>
@@ -141,13 +139,11 @@
     <a href="#conservacion">Conservación</a>
     <a href="#contacto">Contacto</a>
 </nav>
-
 <div class="container">
     <section id="introduccion">
         <h2>Introducción</h2>
         <p>La biología marina es el estudio de los organismos marinos, sus comportamientos y sus interacciones con el medio ambiente. Este campo incluye la biología de microorganismos, plantas y animales que viven en los océanos, mares y cuerpos de agua salada.</p>
     </section>
-
     <section id="ecosistemas">
         <h2>Ecosistemas Marinos</h2>
         <p>Los ecosistemas marinos incluyen una variedad de hábitats, desde las costas y estuarios hasta las profundidades del océano. Cada uno de estos ecosistemas alberga una diversidad única de vida marina.</p>
@@ -157,7 +153,6 @@
             <li><strong>Zonas Abisales:</strong> Regiones profundas del océano con condiciones extremas.</li>
         </ul>
     </section>
-
     <section id="especies">
         <h2>Especies Marinas</h2>
         <p>El océano alberga una amplia gama de especies, desde pequeños organismos microscópicos hasta gigantes como las ballenas.</p>
@@ -167,21 +162,17 @@
             <li><strong>Mamíferos Marinos:</strong> Ballenas, delfines y focas.</li>
         </ul>
     </section>
-
     <section id="conservacion">
         <h2>Conservación</h2>
         <p>La conservación marina es crucial para proteger la biodiversidad y los ecosistemas marinos. Incluye esfuerzos como la creación de reservas marinas, la reducción de la contaminación y la investigación sobre el cambio climático.</p>
     </section>
-
     <section id="contacto">
         <h2>Contacto</h2>
         <p>Para más información, puedes contactarnos a través del siguiente correo: <a href="mailto:info@biologiamarina.com">info@biologiamarina.com</a></p>
     </section>
 </div>
-
 <footer>
     <p>&copy; 2024 Biología Marina. Todos los derechos reservados.</p>
 </footer>
-
 </body>
 </html>
